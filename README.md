@@ -1,9 +1,14 @@
+# TEST TEST TEST
+# These are my additions to the readme for the purposes of practicing git.
+# <3
+# TEST TEST TEST
+
 # Homework #2
 
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* `for`
 	* `&&`, `||`, `!`
 	* Arrays
@@ -15,7 +20,7 @@
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* `git status`
 	* `git add --all`
 	* `git status`
