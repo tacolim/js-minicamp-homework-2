@@ -1,8 +1,3 @@
-# TEST TEST TEST
-# These are my additions to the readme for the purposes of practicing git.
-# <3
-# TEST TEST TEST
-
 # Homework #2
 
 ## Instructions
